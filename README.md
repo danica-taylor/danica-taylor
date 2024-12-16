@@ -20,8 +20,8 @@ My name is Danica but everyone calls me Nika 🙂
 🌱 I am currently learning 
 - @Dev Academy - Full-stack Apllication
 
-  🛠 Skills & Technologies
-  Front-End Developement
+🛠 Skills & Technologies
+Front-End Developement
 - HTML5
 - CSS3
 - Javascript
