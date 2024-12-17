@@ -9,7 +9,7 @@ My name is Danica but everyone calls me Nika 🙂
 - [My LinkedIn](www.linkedin.com/in/danica-taylor-nz)
 
 👩‍💻 I am currently working on
-- Character/skill tracking application that is SLAiN group project
+- Collaboration Project Developed by SlAiN: Character/skill tracking application
 - Moba inspired gallery application that is a personal project
 
 👯 I am looking to collaborate on
