@@ -16,6 +16,7 @@ My name is Danica but everyone calls me Nika 🙂
 - Projects that will challenge me to use my full-stack skills
 - Projects that are relative to helping others and add value
 - Projects that are fun and entertaining
+- [Check out my CV if you're serious about linking up](https://www.canva.com/design/DAGTcGvBjFw/X8RXclKmxSi0QAOP-z3nOA/view?utm_content=DAGTcGvBjFw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc66bf68286)
 
 🌱 I am currently learning 
 - @Dev Academy - Full-stack Apllication
@@ -27,7 +28,7 @@ Front-End Developement
 - Javascript
 - Framework/libraries: React.js
 - UI Libraries: Tailwind
-- Version COntrol: Git (Github)
+- Version Control: Git (Github)
 Back-End Developement
 - Server-side Languages: Node.js
 - Databases: MySQL
