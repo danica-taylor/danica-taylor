@@ -22,6 +22,7 @@ My name is Danica but everyone calls me Nika 🙂
 - @Dev Academy - Full-stack Apllication
 
 🛠 Skills & Technologies
+
 Front-End Developement
 - HTML5
 - CSS3
@@ -29,14 +30,17 @@ Front-End Developement
 - Framework/libraries: React.js
 - UI Libraries: Tailwind
 - Version Control: Git (Github)
+
   Back-End Developement
 - Server-side Languages: Node.js
 - Databases: MySQL
 - API Developement: RESTful APIs
+
   Other Tools
 - Testing
 - Package Managers: npm
 - Code Linters/Formatters: ESLint, Prettier
+
   Soft-SKills
 - Problem-Solving
 - Team Collaboration & Communication
