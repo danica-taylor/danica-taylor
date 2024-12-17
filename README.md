@@ -29,15 +29,15 @@ Front-End Developement
 - Framework/libraries: React.js
 - UI Libraries: Tailwind
 - Version Control: Git (Github)
-Back-End Developement
+  Back-End Developement
 - Server-side Languages: Node.js
 - Databases: MySQL
 - API Developement: RESTful APIs
-Other Tools
+  Other Tools
 - Testing
 - Package Managers: npm
 - Code Linters/Formatters: ESLint, Prettier
-Soft-SKills
+  Soft-SKills
 - Problem-Solving
 - Team Collaboration & Communication
 - Debugging and COde Optimization
