@@ -1,6 +1,7 @@
 ## Hi there 👋 
 
 My name is Danica but everyone calls me Nika 🙂
+
 *A passionate full-stack web developer from New Zealand*
 
 📫 Reach Me @
