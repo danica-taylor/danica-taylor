@@ -4,9 +4,7 @@ My name is Danica but everyone calls me Nika 🙂
 
 *A passionate full-stack web developer from New Zealand*
 
-📫 Reach Me @
-- dctaylor101@gmail.com
-- [My LinkedIn](www.linkedin.com/in/danica-taylor-nz)
+📫 Reach Me @ dctaylor101@gmail.com
 
 👩‍💻 I am currently working on
 - Collaboration Project Developed by SLAiN: Character/skill tracking application
