@@ -4,7 +4,9 @@ My name is Danica but everyone calls me Nika 🙂
 
 *A passionate full-stack web developer from New Zealand*
 
-👩‍💻 I am currently working on a collaborative project with my team SLAiN. We are developing an IRL Character Development Project that tracks you experiences and gives you EXP to level up.
+👩‍💻 I am currently working on a collaborative project with my team SLAiN. 
+
+We are developing an IRL Character Development Project that tracks you experiences and gives you EXP to level up.
 
 👯 I am looking to collaborate on projects that will challenge me to use my full-stack skills
 
